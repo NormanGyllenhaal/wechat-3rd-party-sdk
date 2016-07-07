@@ -8,5 +8,7 @@
     <artifactId>wechat-3rd-party-sdk</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
 
+    </dependencies>
 </project>
