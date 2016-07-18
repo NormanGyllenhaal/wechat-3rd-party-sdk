@@ -15,8 +15,6 @@ public class WechatFactory {
 	private final Logger logger = LoggerFactory.getLogger(WechatFactory.class);
 
 
-
-
 	/*public WechatClient getInstance( Long officialAccountId ) {
 		WechatConfig wechatConfig = JSON.parseObject(redisCache.getValue(officialAccountId), WechatConfig.class);
 		if ( wechatConfig.getAccountType().equals(OfficialAccountTypeEnum.AUTHORIZATION.key()) ) {
