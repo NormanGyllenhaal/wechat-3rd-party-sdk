@@ -20,6 +20,7 @@ public interface WechatThirdPartyClient {
 	ComponentAccessTokenBean refreshComponentAccessToken() throws WxErrorException;
 
 
+
 	/**
 	 * 获取预授权码pre_auth_code
 	 *
