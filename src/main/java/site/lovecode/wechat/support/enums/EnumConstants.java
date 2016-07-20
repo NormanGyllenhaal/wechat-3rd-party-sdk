@@ -1,6 +1,6 @@
 /**
- * EnumConstants.java com.jiajiao.core.common.enums Copyright (c) 2015,
- * 北京微课九天教育科技有限公司版权所有.
+ * EnumConstants.java site.lovecode.wechat.core.common.enums Copyright (c) 2015,
+ * .
  */
 
 package site.lovecode.wechat.support.enums;

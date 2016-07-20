@@ -1,5 +1,5 @@
 /**
- * IEnum.java cn.vko.core.common.enums Copyright (c) 2014, 北京微课九天教育科技有限公司版权所有.
+ * IEnum.java cn.vko.core.common.enums Copyright (c) 2014, .
  */
 
 package site.lovecode.wechat.support.enums;

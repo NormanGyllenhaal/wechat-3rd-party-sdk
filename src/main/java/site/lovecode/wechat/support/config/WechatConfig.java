@@ -10,7 +10,7 @@ import java.io.Serializable;
 public class WechatConfig extends WxMpInMemoryConfigStorage implements Serializable {
 
 	/**
-	 * TODO（用一句话描述这个变量的含义）
+	 *
 	 */
 
 	private static final long serialVersionUID = 1L;

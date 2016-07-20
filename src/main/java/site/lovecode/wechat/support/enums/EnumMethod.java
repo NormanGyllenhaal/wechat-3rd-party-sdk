@@ -1,6 +1,6 @@
 /**
  * EnumMethod.java site.lovecode.wechat.common.enums Copyright (c) 2016,
- * 北京微课九天教育科技有限公司版权所有.
+ * .
  */
 
 package site.lovecode.wechat.support.enums;
