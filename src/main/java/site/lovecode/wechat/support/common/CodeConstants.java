@@ -8,7 +8,7 @@ package site.lovecode.wechat.support.common;
 /**
  * 这里定义所有的返回异常的代码
  * 
- * @author malei
+ * @author yangpeng
  * @date 2015-11-22
  * @version 1.0.0
  */

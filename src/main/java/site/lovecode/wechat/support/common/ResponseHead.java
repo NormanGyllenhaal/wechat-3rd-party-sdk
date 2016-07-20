@@ -12,7 +12,7 @@ import java.io.Serializable;
  * 所有应答的应答头部信息
  * <p>
  *
- * @author malei
+ * @author yangpeng
  * @date 2014-11-18
  * @version 1.0.0
  */

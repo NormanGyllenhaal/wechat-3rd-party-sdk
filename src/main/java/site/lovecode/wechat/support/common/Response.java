@@ -13,7 +13,7 @@ import java.io.Serializable;
  * 所有返回数据的超级父类
  * <p>
  *
- * @author malei
+ * @author yangpeng
  * @date 2014-11-18
  * @version 1.0.0
  */

@@ -10,7 +10,7 @@ package site.lovecode.wechat.support.common;
  * 所有应用层需要抛的异常类型
  * <p>
  *
- * @author malei
+ * @author yangpeng
  * @date 2014-11-20
  * @version 1.0.0
  */

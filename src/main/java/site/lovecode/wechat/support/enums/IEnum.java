@@ -10,7 +10,7 @@ package site.lovecode.wechat.support.enums;
  * <p>
  * 所有枚举类必须实现此接口
  * 
- * @author malei
+ * @author yangpeng
  * @date 2014-11-11
  * @version 1.0.0
  */

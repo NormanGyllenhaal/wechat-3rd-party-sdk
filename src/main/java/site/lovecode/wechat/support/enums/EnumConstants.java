@@ -19,7 +19,7 @@ package site.lovecode.wechat.support.enums;
  * 
  * 请在下方自行增加枚举类型，不要任意删除别人定义的枚举类型.
  * 
- * @author 	malei
+ * @author 	yangpeng
  * @date 	2016年4月30日
  * @version 1.0.0
  */
