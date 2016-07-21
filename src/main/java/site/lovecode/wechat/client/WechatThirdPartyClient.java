@@ -21,6 +21,7 @@ public interface WechatThirdPartyClient {
 
 
 
+
 	/**
 	 * 获取预授权码pre_auth_code
 	 *
