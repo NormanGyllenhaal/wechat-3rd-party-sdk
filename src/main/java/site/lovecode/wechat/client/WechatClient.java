@@ -246,7 +246,6 @@ public interface WechatClient extends WxMpService {
 	 */
 	ArticleDayBean getUserRead(Date beginDate, Date endDate) throws WxErrorException;
 
-
 	/**
 	 * 
 	 * 获取图文统计分时数据
