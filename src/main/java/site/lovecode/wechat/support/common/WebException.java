@@ -1,5 +1,5 @@
 /**
- * WebException.java cn.vko.core.common.exception Copyright (c) 2014,
+ * WebException.java site.lovecode.wechat.common.exception Copyright (c) 2014,
  * .
  */
 

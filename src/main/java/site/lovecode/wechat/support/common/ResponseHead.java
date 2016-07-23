@@ -1,5 +1,5 @@
 /**
- * ResponseHead.java cn.vko.core.common.response Copyright (c) 2014,
+ * ResponseHead.java site.lovecode.wechat.common.response Copyright (c) 2014,
  * .
  */
 

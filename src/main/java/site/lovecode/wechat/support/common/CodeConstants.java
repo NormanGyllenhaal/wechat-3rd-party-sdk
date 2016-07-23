@@ -1,5 +1,5 @@
 /**
- * Code.java cn.vko.core.common.code Copyright (c) 2014, .
+ * Code.java site.lovecode.wechat.common.code Copyright (c) 2014, .
  */
 
 package site.lovecode.wechat.support.common;
