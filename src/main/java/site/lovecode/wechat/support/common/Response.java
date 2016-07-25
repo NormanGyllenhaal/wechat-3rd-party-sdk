@@ -9,6 +9,7 @@ package site.lovecode.wechat.support.common;
 import java.io.Serializable;
 
 
+
 /**
  * 所有返回数据的超级父类
  * <p>
