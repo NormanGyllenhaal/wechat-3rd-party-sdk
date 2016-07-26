@@ -23,6 +23,7 @@ public class WechatAuthorizationClient extends WechatClientImpl {
 	private WechatThirdPartyClient wechatThirdPartyClient;
 
 
+
 	@Override
 	public String getAccessToken( boolean forceRefresh ) throws WxErrorException {
 		if ( forceRefresh ) {
