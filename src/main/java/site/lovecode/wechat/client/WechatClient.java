@@ -219,6 +219,7 @@ public interface WechatClient extends WxMpService {
 	ArticleSummaryBean getArticleSummary(Date beginDate, Date endDate) throws WxErrorException;
 
 
+
 	/**
 	 * 
 	 * 获取图文群发总数据
