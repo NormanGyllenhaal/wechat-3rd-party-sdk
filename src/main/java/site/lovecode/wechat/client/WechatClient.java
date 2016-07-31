@@ -235,6 +235,7 @@ public interface WechatClient extends WxMpService {
 
 
 
+
 	/**
 	 * 
 	 * 获取图文统计数据
