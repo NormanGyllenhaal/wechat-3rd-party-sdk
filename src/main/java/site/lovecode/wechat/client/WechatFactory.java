@@ -8,6 +8,7 @@ import org.slf4j.LoggerFactory;
 public class WechatFactory {
 
 
+
 	private final Logger logger = LoggerFactory.getLogger(WechatFactory.class);
 
 
