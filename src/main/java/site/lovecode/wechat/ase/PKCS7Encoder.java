@@ -16,6 +16,8 @@ import java.util.Arrays;
  */
 class PKCS7Encoder {
 
+
+
 	static Charset CHARSET = Charset.forName("utf-8");
 
 	static int BLOCK_SIZE = 32;
