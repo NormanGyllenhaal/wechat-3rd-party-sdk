@@ -220,6 +220,7 @@ public interface WechatClient extends WxMpService {
 
 
 
+
 	/**
 	 * 
 	 * 获取图文群发总数据
