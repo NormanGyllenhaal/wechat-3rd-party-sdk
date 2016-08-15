@@ -179,6 +179,7 @@ public interface WechatClient extends WxMpService {
 	 */
 	TagsIdList getIdList(String openId) throws WxErrorException;
 
+
 	/**
 	 * 
 	 * 获取用户增减数据
