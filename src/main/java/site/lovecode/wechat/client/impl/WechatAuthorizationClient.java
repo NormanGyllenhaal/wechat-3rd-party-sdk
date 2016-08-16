@@ -26,6 +26,7 @@ public class WechatAuthorizationClient extends WechatClientImpl {
 
 	@Override
 	public String getAccessToken( boolean forceRefresh ) throws WxErrorException {
+
 		if ( forceRefresh ) {
 			wxMpConfigStorage.expireAccessToken();
 		}
