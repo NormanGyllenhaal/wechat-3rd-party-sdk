@@ -17,6 +17,7 @@ import javax.annotation.Resource;
 
 public class WechatAuthorizationClient extends WechatClientImpl {
 
+
 	private final Logger logger = LoggerFactory.getLogger(WechatAuthorizationClient.class);
 
 	@Resource
