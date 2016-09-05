@@ -1284,6 +1284,7 @@ public class WechatClientImpl implements WechatClient {
 	}
 
 
+
 	/**
 	 * (non-Javadoc)
 	 * @throws WxErrorException
