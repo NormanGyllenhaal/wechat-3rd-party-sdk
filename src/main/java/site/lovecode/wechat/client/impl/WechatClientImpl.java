@@ -91,6 +91,7 @@ public class WechatClientImpl implements WechatClient {
 	protected WxSessionManager sessionManager = new StandardSessionManager();
 
 
+
 	@Override
 	public boolean checkSignature( String timestamp, String nonce, String signature ) {
 		try {
